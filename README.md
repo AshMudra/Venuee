@@ -61,8 +61,8 @@ When 'true', the 'nodemon' command will delete everything in the database, and t
 | [Delete Reservation](#deleteReservationById)         | DELETE  | /reservation/delete/:id            |     200 |
 ### Credit
 Venuee was built by:
+- [Ash Mudra](https://github.com/AshMudra)
 - [Ammar Khomusi](https://github.com/ammarkhomusi)
 - [Nicolás Ogno Aguad](https://github.com/NicoOgno)
 - [Tyler Wells](https://github.com/twellzz)
 - [Mike Kaib](https://github.com/mkcannon)
-- [Ash Mudra](https://github.com/AshMudra)
